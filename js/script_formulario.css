@@ -1,0 +1,23 @@
+// Obtén una referencia al formulario y al elemento del botón de confirmación
+var reservaForm = document.getElementById('reservaForm');
+var confirmadoButton = reservaForm.querySelector('button[type="submit"]');
+
+// Agrega un evento de envío al formulario
+reservaForm.addEventListener('submit', function(event) {
+  event.preventDefault(); // Evita que el formulario se envíe de manera predeterminada
+
+  // Obtén los valores de los campos del formulario
+  var nombre = document.getElementById('nombre').value;
+  var telefono = document.getElementById('telefono').value;
+  var correo = document.getElementById('correo').value;
+  var numeroPersonas = document.getElementById('numeroPersonas').value;
+  var fecha = document.getElementById('fecha').value;
+
+  // Aquí puedes realizar acciones adicionales con los valores del formulario, como enviar una solicitud al servidor o almacenarlos en una base de datos
+
+  // Muestra un mensaje de éxito
+  alert('Reservación enviada con éxito');
+
+  // Restablece el formulario
+  reservaForm.reset();
+});
