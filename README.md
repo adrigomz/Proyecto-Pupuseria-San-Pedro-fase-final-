@@ -35,5 +35,5 @@ No hay restricciones adicionales — No puede aplicar términos legales ni medid
 
 <h1 align="center"> Links de interes:</h1>
 
-<a href="https://trello.com/invite/b/QnieB6PJ/ATTId9f98a58944a54cc7705fa7b4d4c57643F73E7ED/logica-de-programacion">Trello</a>
+Link de Trello: <a href="https://trello.com/invite/b/QnieB6PJ/ATTId9f98a58944a54cc7705fa7b4d4c57643F73E7ED/logica-de-programacion">Trello</a>
 
