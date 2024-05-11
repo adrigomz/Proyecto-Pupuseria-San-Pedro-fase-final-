@@ -37,3 +37,5 @@ No hay restricciones adicionales — No puede aplicar términos legales ni medid
 
 Link de Trello: <a href="https://trello.com/invite/b/QnieB6PJ/ATTId9f98a58944a54cc7705fa7b4d4c57643F73E7ED/logica-de-programacion">Trello</a>
 
+Link de mockups: <a href="https://www.figma.com/file/HF5oer7cLvSdKx3KYJVsLt/Pupuseria-San-Pedro?type=design&node-id=0%3A1&mode=design&t=CRljYincaLA5bPwa-1>Mockups</a>
+
