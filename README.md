@@ -35,7 +35,8 @@ No hay restricciones adicionales — No puede aplicar términos legales ni medid
 
 <h1 align="center"> Links de interes:</h1>
 
-Link de Trello: <a href="https://trello.com/invite/b/is6bGqMD/ATTI4d82c1813da6f0ace02adc5530006049ED46E1B1/mi-tablero-de-trello>Trello</a>
+Link de Trello: <a href="https://trello.com/invite/b/is6bGqMD/ATTI4d82c1813da6f0ace02adc5530006049ED46E1B1/mi-tablero-de-trello">Trello</a>
+
 
 Link de mockups: <a href="https://www.figma.com/file/HF5oer7cLvSdKx3KYJVsLt/Pupuseria-San-Pedro?type=design&node-id=0-1&mode=design">Mockups</a>
 
