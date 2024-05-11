@@ -41,7 +41,11 @@ Link de Trello: <a href="https://trello.com/invite/b/is6bGqMD/ATTI4d82c1813da6f0
 Link de mockups: <a href="https://www.figma.com/file/HF5oer7cLvSdKx3KYJVsLt/Pupuseria-San-Pedro?type=design&node-id=0-1&mode=design">Mockups</a>
 
 
-Link de mockups: <a href="https://drive.google.com/drive/folders/1DgT3x8jEiRFbMUmTLwSJe8oSl7BFOkjD?usp=sharing">Presentación</a>
+Link de Presentación: <a href="https://drive.google.com/drive/folders/1DgT3x8jEiRFbMUmTLwSJe8oSl7BFOkjD?usp=sharing">Presentación</a>
+
+
+Link de Manual de usuario: <a href="https://drive.google.com/drive/folders/1iAKEGEQe0AHM9SaxFGsNJ1WLLXAY0Qfh?usp=sharing">Manual de usuario</a>
+
 
 
 
